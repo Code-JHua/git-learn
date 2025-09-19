@@ -10,4 +10,13 @@
   6. git branch -D xxx 强制删除xxx分支
   7. git branch -M xxx 重命名当前分支为xxx
 
-- 本地分支名需要和远程分支名一致才能推送成功
+  - 本地分支名需要和远程分支名一致才能推送成功
+
+#  git log 查看提交历史
+
+# git reset
+  1. git reset --hard HEAD^ 回退到上一个版本
+  2. git reset --hard 版本号 回退到指定版本
+  3. git reset --hard HEAD~n 回退到前n个版本
+
+# git reflog  查看所有曾经执行过的 git 操作
