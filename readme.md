@@ -9,3 +9,5 @@
   5. git branch -d xxx 删除xxx分支
   6. git branch -D xxx 强制删除xxx分支
   7. git branch -M xxx 重命名当前分支为xxx
+
+- 本地分支名需要和远程分支名一致才能推送成功
