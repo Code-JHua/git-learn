@@ -22,5 +22,3 @@
   5. git reset --soft HEAD^ 回退到上一个版本, 并将暂存区的文件保留下来
 
 # git reflog  查看所有曾经执行过的 git 操作
-
-老板是傻逼
